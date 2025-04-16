@@ -7,9 +7,9 @@ CORS(app)
 
 # Replace these values with your actual database credentials
 db_config = {
-    'host': 'enter db host name',
-    'user': 'enter master username',
-    'password': 'enter username password',
+    'host': 'application-database.ch4wgmaueqcv.ap-south-1.rds.amazonaws.com',
+    'user': 'akars121',
+    'password': 'admin121',
     'database': 'employees'
 }
 
